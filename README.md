@@ -69,6 +69,6 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 💬 Contact
 For questions or feedback, reach out:
 
-GitHub: @DIP_SARKER
+GitHub: @DIP-SARKER
 
 Email: sarker15-5274@diu.edu.bd
